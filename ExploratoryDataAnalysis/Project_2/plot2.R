@@ -1,7 +1,3 @@
-#!/usr/bin/Rscript
-# *******************************************
-# @author Pranay Sarkar
-
 # Read data file
 NEI <- readRDS("E:/Exploratory-Data-Analysis/Week 4/summarySCC_PM25.rds")
 SCC <- readRDS("E:/Exploratory-Data-Analysis/Week 4/Source_Classification_Code.rds")
